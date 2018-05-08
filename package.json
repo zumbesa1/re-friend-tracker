@@ -36,10 +36,11 @@
   },
   "dependencies": {
     "body-parser": "1.15.2",
+    "express": "4.15.0",
+    "npm": "^6.0.0",
     "path-framework": "0.2.22",
-    "pouchdb-core": "6.3.4",
     "pouchdb-adapter-memory": "6.3.4",
-    "express": "4.15.0"
+    "pouchdb-core": "6.3.4"
   },
   "devDependencies": {
     "@angular/cli": "1.7.3",
